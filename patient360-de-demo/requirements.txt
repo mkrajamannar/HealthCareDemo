@@ -1,0 +1,2 @@
+# Local ingestion scripts only. Databricks notebooks run on the cluster runtime.
+requests>=2.31

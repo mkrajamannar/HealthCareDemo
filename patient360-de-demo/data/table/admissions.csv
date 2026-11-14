@@ -1,0 +1,351 @@
+admission_id,patient_id,admit_date,discharge_date,department,diagnosis_code,diagnosis,attending_physician,bed_type,admission_type
+A0001,P0065,2026-01-27,2026-02-03,Cardiology,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,General,Emergency
+A0002,P0189,2026-05-08,2026-05-10,Pediatrics,G43.909,"Migraine, unspecified",Dr. C. Nguyen,General,Emergency
+A0003,P0200,2026-10-11,2026-10-17,Internal Medicine,J45.909,"Asthma, uncomplicated",Dr. H. Smith,ICU,Elective
+A0004,P0076,2026-02-06,2026-02-14,Neurology,I10,Essential hypertension,Dr. A. Patel,ICU,Elective
+A0005,P0102,2026-06-15,2026-06-20,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,General,Urgent
+A0006,P0200,2026-04-12,2026-04-17,Cardiology,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,Step-down,Elective
+A0007,P0191,2026-07-12,2026-07-19,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. G. Rao,Step-down,Elective
+A0008,P0133,2026-09-16,2026-09-24,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,Observation,Elective
+A0009,P0076,2026-08-13,2026-08-16,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. B. Chen,General,Emergency
+A0010,P0155,2026-06-05,2026-06-10,Surgery,F32.9,Major depressive disorder,Dr. C. Nguyen,Observation,Emergency
+A0011,P0158,2026-08-21,2026-08-22,Surgery,N18.3,"Chronic kidney disease, stage 3",Dr. E. Garcia,General,Elective
+A0012,P0192,2026-07-31,2026-08-06,Orthopedics,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,ICU,Urgent
+A0013,P0018,2026-08-17,2026-08-18,Neurology,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,Step-down,Emergency
+A0014,P0040,2026-10-22,2026-10-23,Internal Medicine,G43.909,"Migraine, unspecified",Dr. F. Ahmed,Step-down,Emergency
+A0015,P0094,2026-02-13,2026-02-16,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. F. Ahmed,Step-down,Elective
+A0016,P0128,2026-03-04,2026-03-05,Surgery,J45.909,"Asthma, uncomplicated",Dr. B. Chen,Step-down,Emergency
+A0017,P0074,2026-08-21,2026-08-25,Internal Medicine,G43.909,"Migraine, unspecified",Dr. D. Kim,General,Elective
+A0018,P0183,2026-02-11,2026-02-19,Internal Medicine,J45.909,"Asthma, uncomplicated",Dr. B. Chen,Step-down,Urgent
+A0019,P0139,2026-07-01,2026-07-03,Emergency,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,ICU,Urgent
+A0020,P0058,2026-04-04,2026-04-10,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,ICU,Elective
+A0021,P0142,2026-09-14,2026-09-15,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,ICU,Urgent
+A0022,P0102,2026-02-18,2026-02-20,Internal Medicine,I25.10,Atherosclerotic heart disease,Dr. G. Rao,Observation,Urgent
+A0023,P0165,2026-02-11,2026-02-14,Oncology,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,Observation,Urgent
+A0024,P0200,2026-09-26,2026-10-02,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. C. Nguyen,Observation,Urgent
+A0025,P0040,2026-02-02,2026-02-04,Emergency,K21.9,Gastro-esophageal reflux disease,Dr. C. Nguyen,ICU,Emergency
+A0026,P0073,2026-04-30,2026-05-06,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,ICU,Urgent
+A0027,P0161,2026-10-14,2026-10-19,Emergency,J45.909,"Asthma, uncomplicated",Dr. B. Chen,ICU,Urgent
+A0028,P0169,2026-10-29,2026-11-01,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. A. Patel,General,Elective
+A0029,P0197,2026-01-28,2026-02-02,Surgery,M17.0,Osteoarthritis of knee,Dr. A. Patel,Observation,Urgent
+A0030,P0124,2026-10-11,2026-10-16,Neurology,I25.10,Atherosclerotic heart disease,Dr. G. Rao,Step-down,Emergency
+A0031,P0113,2026-02-11,2026-02-12,Surgery,J45.909,"Asthma, uncomplicated",Dr. H. Smith,Observation,Elective
+A0032,P0184,2026-06-28,2026-07-01,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,Observation,Elective
+A0033,P0028,2026-07-13,2026-07-22,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,Observation,Elective
+A0034,P0037,2026-05-21,2026-05-29,Oncology,M17.0,Osteoarthritis of knee,Dr. A. Patel,Step-down,Emergency
+A0035,P0084,2026-08-07,2026-08-11,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. D. Kim,ICU,Emergency
+A0036,P0079,2026-09-25,2026-10-03,Internal Medicine,F32.9,Major depressive disorder,Dr. A. Patel,General,Emergency
+A0037,P0056,2026-09-20,2026-09-28,Pediatrics,M17.0,Osteoarthritis of knee,Dr. A. Patel,General,Emergency
+A0038,P0138,2026-09-15,2026-09-23,Cardiology,I25.10,Atherosclerotic heart disease,Dr. B. Chen,Observation,Elective
+A0039,P0094,2026-05-20,2026-05-26,Cardiology,J18.9,"Pneumonia, unspecified",Dr. G. Rao,General,Urgent
+A0040,P0142,2026-10-19,2026-10-23,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,Observation,Urgent
+A0041,P0160,2026-08-23,2026-09-01,Oncology,I25.10,Atherosclerotic heart disease,Dr. C. Nguyen,General,Emergency
+A0042,P0094,2026-07-15,2026-07-21,Orthopedics,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,Observation,Urgent
+A0043,P0036,2026-01-25,2026-01-26,Pediatrics,I10,Essential hypertension,Dr. H. Smith,Observation,Elective
+A0044,P0084,2026-11-11,2026-11-20,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. C. Nguyen,Observation,Urgent
+A0045,P0131,2026-06-07,2026-06-13,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,Observation,Elective
+A0046,P0107,2026-07-12,2026-07-18,Emergency,E11.9,Type 2 diabetes mellitus,Dr. A. Patel,Observation,Emergency
+A0047,P0150,2026-10-28,2026-11-01,Internal Medicine,I10,Essential hypertension,Dr. C. Nguyen,Observation,Elective
+A0048,P0180,2026-05-09,2026-05-10,Oncology,G43.909,"Migraine, unspecified",Dr. D. Kim,General,Emergency
+A0049,P0106,2026-06-14,2026-06-21,Neurology,J45.909,"Asthma, uncomplicated",Dr. G. Rao,Observation,Urgent
+A0050,P0054,2026-02-05,2026-02-08,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,Observation,Emergency
+A0051,P0088,2026-04-03,2026-04-11,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,Observation,Elective
+A0052,P0077,2026-05-11,2026-05-16,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,Step-down,Urgent
+A0053,P0123,2026-04-21,2026-04-29,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. E. Garcia,Step-down,Elective
+A0054,P0102,2026-10-25,2026-11-03,Pediatrics,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,Step-down,Elective
+A0055,P0114,2026-06-01,2026-06-03,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,ICU,Elective
+A0056,P0179,2026-10-07,2026-10-12,Emergency,K21.9,Gastro-esophageal reflux disease,Dr. C. Nguyen,General,Urgent
+A0057,P0013,2026-11-01,2026-11-05,Neurology,M17.0,Osteoarthritis of knee,Dr. D. Kim,General,Elective
+A0058,P0026,2026-08-04,2026-08-10,Orthopedics,F32.9,Major depressive disorder,Dr. A. Patel,ICU,Emergency
+A0059,P0194,2026-09-05,2026-09-13,Emergency,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,Step-down,Urgent
+A0060,P0060,2026-02-04,2026-02-06,Cardiology,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Observation,Elective
+A0061,P0048,2026-01-23,2026-01-30,Emergency,F32.9,Major depressive disorder,Dr. A. Patel,General,Emergency
+A0062,P0073,2026-10-22,2026-10-24,Internal Medicine,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,ICU,Urgent
+A0063,P0029,2026-09-01,2026-09-06,Pediatrics,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,Observation,Urgent
+A0064,P0189,2026-05-16,2026-05-19,Pediatrics,I10,Essential hypertension,Dr. E. Garcia,ICU,Elective
+A0065,P0132,2026-11-13,2026-11-20,Pediatrics,J18.9,"Pneumonia, unspecified",Dr. B. Chen,Observation,Urgent
+A0066,P0123,2026-02-22,2026-02-25,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. D. Kim,General,Emergency
+A0067,P0193,2026-07-20,2026-07-24,Emergency,F32.9,Major depressive disorder,Dr. F. Ahmed,Step-down,Urgent
+A0068,P0168,2026-10-25,2026-10-26,Pediatrics,I25.10,Atherosclerotic heart disease,Dr. D. Kim,General,Urgent
+A0069,P0041,2026-03-06,2026-03-14,Surgery,I25.10,Atherosclerotic heart disease,Dr. E. Garcia,General,Urgent
+A0070,P0057,2026-06-05,2026-06-11,Neurology,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Observation,Elective
+A0071,P0180,2026-08-25,2026-08-31,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. D. Kim,ICU,Urgent
+A0072,P0115,2026-11-06,2026-11-08,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. B. Chen,General,Elective
+A0073,P0147,2026-10-12,2026-10-21,Orthopedics,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,Step-down,Urgent
+A0074,P0184,2026-08-19,2026-08-21,Internal Medicine,M17.0,Osteoarthritis of knee,Dr. B. Chen,Observation,Elective
+A0075,P0107,2026-08-25,2026-08-28,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,Observation,Urgent
+A0076,P0066,2026-06-11,2026-06-12,Cardiology,J18.9,"Pneumonia, unspecified",Dr. D. Kim,General,Elective
+A0077,P0139,2026-08-09,2026-08-15,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. B. Chen,Observation,Elective
+A0078,P0197,2026-05-31,2026-06-07,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. G. Rao,Step-down,Emergency
+A0079,P0021,2026-08-22,2026-08-29,Orthopedics,J18.9,"Pneumonia, unspecified",Dr. F. Ahmed,General,Elective
+A0080,P0033,2026-10-07,2026-10-14,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,General,Emergency
+A0081,P0137,2026-08-30,2026-09-08,Surgery,J18.9,"Pneumonia, unspecified",Dr. D. Kim,ICU,Emergency
+A0082,P0049,2026-07-01,2026-07-04,Oncology,I25.10,Atherosclerotic heart disease,Dr. A. Patel,Observation,Urgent
+A0083,P0018,2026-01-13,2026-01-17,Oncology,M17.0,Osteoarthritis of knee,Dr. A. Patel,Observation,Urgent
+A0084,P0103,2026-01-29,2026-02-02,Internal Medicine,I10,Essential hypertension,Dr. D. Kim,ICU,Elective
+A0085,P0060,2026-03-17,2026-03-26,Pediatrics,I25.10,Atherosclerotic heart disease,Dr. F. Ahmed,ICU,Emergency
+A0086,P0106,2026-03-19,2026-03-28,Emergency,M17.0,Osteoarthritis of knee,Dr. E. Garcia,General,Urgent
+A0087,P0143,2026-11-03,2026-11-06,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. A. Patel,Step-down,Urgent
+A0088,P0179,2026-07-19,2026-07-28,Surgery,N18.3,"Chronic kidney disease, stage 3",Dr. G. Rao,ICU,Emergency
+A0089,P0122,2026-07-16,2026-07-19,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,Step-down,Urgent
+A0090,P0144,2026-03-19,2026-03-27,Surgery,I10,Essential hypertension,Dr. G. Rao,ICU,Emergency
+A0091,P0085,2026-05-09,2026-05-14,Oncology,M17.0,Osteoarthritis of knee,Dr. H. Smith,Step-down,Elective
+A0092,P0069,2026-10-06,2026-10-10,Surgery,I10,Essential hypertension,Dr. A. Patel,General,Elective
+A0093,P0123,2026-11-01,2026-11-10,Neurology,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,Step-down,Elective
+A0094,P0192,2026-04-23,2026-04-27,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. D. Kim,ICU,Emergency
+A0095,P0199,2026-05-07,2026-05-16,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. G. Rao,Observation,Urgent
+A0096,P0093,2026-07-07,2026-07-12,Internal Medicine,I25.10,Atherosclerotic heart disease,Dr. H. Smith,General,Urgent
+A0097,P0095,2026-09-02,2026-09-08,Pediatrics,M17.0,Osteoarthritis of knee,Dr. G. Rao,General,Urgent
+A0098,P0067,2026-04-28,2026-05-01,Surgery,I10,Essential hypertension,Dr. E. Garcia,ICU,Elective
+A0099,P0146,2026-06-22,2026-06-26,Neurology,J18.9,"Pneumonia, unspecified",Dr. H. Smith,Step-down,Emergency
+A0100,P0044,2026-09-12,2026-09-20,Pediatrics,F32.9,Major depressive disorder,Dr. C. Nguyen,ICU,Urgent
+A0101,P0139,2026-10-11,2026-10-19,Cardiology,J45.909,"Asthma, uncomplicated",Dr. A. Patel,General,Urgent
+A0102,P0036,2026-01-29,2026-01-30,Neurology,J18.9,"Pneumonia, unspecified",Dr. B. Chen,ICU,Elective
+A0103,P0096,2026-04-26,2026-05-05,Cardiology,F32.9,Major depressive disorder,Dr. H. Smith,Observation,Elective
+A0104,P0106,2026-01-08,2026-01-17,Cardiology,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,Step-down,Urgent
+A0105,P0179,2026-05-31,2026-06-01,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. C. Nguyen,General,Elective
+A0106,P0050,2026-09-30,2026-10-03,Emergency,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,Step-down,Emergency
+A0107,P0118,2026-02-14,2026-02-20,Neurology,J18.9,"Pneumonia, unspecified",Dr. D. Kim,Step-down,Urgent
+A0108,P0104,2026-02-15,2026-02-16,Surgery,E11.9,Type 2 diabetes mellitus,Dr. G. Rao,Observation,Elective
+A0109,P0128,2026-01-09,2026-01-12,Surgery,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,General,Urgent
+A0110,P0178,2026-01-26,2026-01-30,Internal Medicine,M17.0,Osteoarthritis of knee,Dr. E. Garcia,General,Elective
+A0111,P0169,2026-05-28,2026-06-06,Cardiology,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Step-down,Elective
+A0112,P0020,2026-04-21,2026-04-24,Emergency,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,ICU,Urgent
+A0113,P0099,2026-07-23,2026-08-01,Orthopedics,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,Step-down,Elective
+A0114,P0020,2026-02-24,2026-03-03,Pediatrics,M17.0,Osteoarthritis of knee,Dr. G. Rao,Step-down,Elective
+A0115,P0059,2026-05-24,2026-06-01,Pediatrics,F32.9,Major depressive disorder,Dr. G. Rao,Observation,Elective
+A0116,P0198,2026-10-31,2026-11-07,Emergency,E11.9,Type 2 diabetes mellitus,Dr. D. Kim,General,Elective
+A0117,P0183,2026-05-22,2026-05-25,Orthopedics,J18.9,"Pneumonia, unspecified",Dr. G. Rao,Step-down,Emergency
+A0118,P0079,2026-02-28,2026-03-02,Internal Medicine,I10,Essential hypertension,Dr. F. Ahmed,Step-down,Elective
+A0119,P0111,2026-03-13,2026-03-15,Internal Medicine,J45.909,"Asthma, uncomplicated",Dr. G. Rao,General,Elective
+A0120,P0024,2026-02-19,2026-02-25,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. G. Rao,General,Emergency
+A0121,P0186,2026-08-04,2026-08-11,Neurology,E11.9,Type 2 diabetes mellitus,Dr. C. Nguyen,Observation,Elective
+A0122,P0069,2026-03-17,2026-03-22,Internal Medicine,I25.10,Atherosclerotic heart disease,Dr. C. Nguyen,General,Elective
+A0123,P0077,2026-08-15,2026-08-20,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. B. Chen,Step-down,Emergency
+A0124,P0158,2026-05-11,2026-05-19,Neurology,G43.909,"Migraine, unspecified",Dr. H. Smith,General,Elective
+A0125,P0086,2026-06-09,2026-06-10,Surgery,J18.9,"Pneumonia, unspecified",Dr. F. Ahmed,Observation,Emergency
+A0126,P0083,2026-08-13,2026-08-16,Neurology,I25.10,Atherosclerotic heart disease,Dr. H. Smith,Step-down,Elective
+A0127,P0189,2026-07-27,2026-08-02,Internal Medicine,I25.10,Atherosclerotic heart disease,Dr. D. Kim,Step-down,Emergency
+A0128,P0030,2026-05-28,2026-06-04,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. C. Nguyen,General,Urgent
+A0129,P0075,2026-08-29,2026-09-02,Oncology,F32.9,Major depressive disorder,Dr. G. Rao,Observation,Elective
+A0130,P0169,2026-06-09,2026-06-13,Orthopedics,I25.10,Atherosclerotic heart disease,Dr. G. Rao,Observation,Elective
+A0131,P0103,2026-08-22,2026-08-30,Surgery,G43.909,"Migraine, unspecified",Dr. A. Patel,Step-down,Urgent
+A0132,P0197,2026-10-06,2026-10-08,Neurology,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,ICU,Urgent
+A0133,P0111,2026-01-27,2026-02-03,Oncology,N18.3,"Chronic kidney disease, stage 3",Dr. A. Patel,General,Emergency
+A0134,P0143,2026-04-28,2026-05-07,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,Step-down,Emergency
+A0135,P0089,2026-08-30,2026-09-08,Cardiology,J45.909,"Asthma, uncomplicated",Dr. H. Smith,General,Emergency
+A0136,P0187,2026-08-05,2026-08-07,Orthopedics,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,Step-down,Emergency
+A0137,P0124,2026-08-26,2026-08-30,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,General,Emergency
+A0138,P0077,2026-08-24,2026-08-30,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. B. Chen,General,Emergency
+A0139,P0133,2026-03-01,2026-03-04,Orthopedics,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,Step-down,Urgent
+A0140,P0104,2026-08-11,2026-08-19,Orthopedics,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,Observation,Emergency
+A0141,P0152,2026-01-19,2026-01-23,Surgery,F32.9,Major depressive disorder,Dr. G. Rao,General,Urgent
+A0142,P0193,2026-04-24,2026-04-28,Oncology,I25.10,Atherosclerotic heart disease,Dr. B. Chen,ICU,Emergency
+A0143,P0030,2026-06-20,2026-06-24,Emergency,F32.9,Major depressive disorder,Dr. H. Smith,Step-down,Urgent
+A0144,P0030,2026-07-22,2026-07-29,Pediatrics,G43.909,"Migraine, unspecified",Dr. F. Ahmed,Observation,Urgent
+A0145,P0152,2026-04-03,2026-04-08,Oncology,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Step-down,Elective
+A0146,P0047,2026-05-07,2026-05-12,Pediatrics,E11.9,Type 2 diabetes mellitus,Dr. C. Nguyen,Observation,Emergency
+A0147,P0099,2026-11-06,2026-11-09,Surgery,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Observation,Urgent
+A0148,P0043,2026-10-07,2026-10-10,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,ICU,Elective
+A0149,P0014,2026-06-15,2026-06-23,Pediatrics,G43.909,"Migraine, unspecified",Dr. A. Patel,Observation,Elective
+A0150,P0130,2026-04-14,2026-04-21,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. G. Rao,Observation,Emergency
+A0151,P0022,2026-08-20,2026-08-28,Cardiology,J45.909,"Asthma, uncomplicated",Dr. D. Kim,Step-down,Elective
+A0152,P0074,2026-05-25,2026-05-29,Orthopedics,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,Observation,Urgent
+A0153,P0030,2026-09-23,2026-09-25,Emergency,G43.909,"Migraine, unspecified",Dr. F. Ahmed,General,Urgent
+A0154,P0109,2026-08-18,2026-08-27,Oncology,M17.0,Osteoarthritis of knee,Dr. D. Kim,Step-down,Elective
+A0155,P0023,2026-08-23,2026-08-28,Internal Medicine,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,ICU,Elective
+A0156,P0162,2026-11-02,2026-11-08,Surgery,G43.909,"Migraine, unspecified",Dr. C. Nguyen,ICU,Elective
+A0157,P0090,2026-04-20,2026-04-21,Emergency,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Step-down,Urgent
+A0158,P0069,2026-06-03,2026-06-08,Oncology,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Observation,Elective
+A0159,P0064,2026-05-26,2026-05-29,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,ICU,Urgent
+A0160,P0148,2026-07-25,2026-08-02,Emergency,J45.909,"Asthma, uncomplicated",Dr. G. Rao,Observation,Emergency
+A0161,P0132,2026-02-12,2026-02-14,Emergency,J18.9,"Pneumonia, unspecified",Dr. F. Ahmed,Observation,Emergency
+A0162,P0188,2026-06-21,2026-06-22,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,General,Urgent
+A0163,P0055,2026-07-27,2026-07-31,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,Step-down,Emergency
+A0164,P0034,2026-06-26,2026-07-05,Internal Medicine,G43.909,"Migraine, unspecified",Dr. F. Ahmed,General,Elective
+A0165,P0032,2026-02-24,2026-03-04,Orthopedics,I10,Essential hypertension,Dr. H. Smith,Observation,Elective
+A0166,P0167,2026-08-12,2026-08-16,Emergency,J45.909,"Asthma, uncomplicated",Dr. C. Nguyen,Step-down,Elective
+A0167,P0096,2026-07-08,2026-07-13,Orthopedics,E11.9,Type 2 diabetes mellitus,Dr. A. Patel,Observation,Urgent
+A0168,P0168,2026-06-10,2026-06-14,Oncology,J18.9,"Pneumonia, unspecified",Dr. B. Chen,General,Elective
+A0169,P0152,2026-09-06,2026-09-08,Neurology,J45.909,"Asthma, uncomplicated",Dr. H. Smith,General,Elective
+A0170,P0178,2026-06-29,2026-07-01,Orthopedics,J18.9,"Pneumonia, unspecified",Dr. H. Smith,General,Elective
+A0171,P0027,2026-07-20,2026-07-22,Pediatrics,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,Step-down,Elective
+A0172,P0018,2026-07-19,2026-07-22,Cardiology,J45.909,"Asthma, uncomplicated",Dr. C. Nguyen,Observation,Emergency
+A0173,P0158,2026-04-24,2026-04-27,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. D. Kim,General,Elective
+A0174,P0187,2026-03-17,2026-03-19,Surgery,G43.909,"Migraine, unspecified",Dr. F. Ahmed,Observation,Emergency
+A0175,P0166,2026-03-17,2026-03-21,Oncology,I25.10,Atherosclerotic heart disease,Dr. D. Kim,Step-down,Urgent
+A0176,P0133,2026-01-18,2026-01-23,Neurology,M17.0,Osteoarthritis of knee,Dr. G. Rao,Step-down,Urgent
+A0177,P0099,2026-02-01,2026-02-05,Oncology,F32.9,Major depressive disorder,Dr. D. Kim,Observation,Urgent
+A0178,P0004,2026-11-05,2026-11-07,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. F. Ahmed,ICU,Emergency
+A0179,P0140,2026-10-23,2026-10-30,Orthopedics,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,General,Elective
+A0180,P0068,2026-11-01,2026-11-03,Neurology,I10,Essential hypertension,Dr. A. Patel,General,Emergency
+A0181,P0197,2026-09-21,2026-09-26,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. G. Rao,Observation,Elective
+A0182,P0040,2026-10-06,2026-10-15,Emergency,G43.909,"Migraine, unspecified",Dr. B. Chen,Step-down,Elective
+A0183,P0138,2026-09-23,2026-09-27,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. G. Rao,General,Emergency
+A0184,P0063,2026-08-16,2026-08-20,Oncology,I10,Essential hypertension,Dr. G. Rao,General,Emergency
+A0185,P0171,2026-11-12,2026-11-13,Orthopedics,I25.10,Atherosclerotic heart disease,Dr. B. Chen,General,Urgent
+A0186,P0128,2026-03-16,2026-03-17,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. E. Garcia,ICU,Emergency
+A0187,P0198,2026-03-10,2026-03-15,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. F. Ahmed,Observation,Emergency
+A0188,P0183,2026-09-30,2026-10-02,Oncology,I25.10,Atherosclerotic heart disease,Dr. H. Smith,Observation,Urgent
+A0189,P0146,2026-07-08,2026-07-09,Orthopedics,F32.9,Major depressive disorder,Dr. F. Ahmed,ICU,Emergency
+A0190,P0190,2026-02-26,2026-02-28,Cardiology,M17.0,Osteoarthritis of knee,Dr. A. Patel,General,Elective
+A0191,P0099,2026-01-28,2026-02-05,Orthopedics,N18.3,"Chronic kidney disease, stage 3",Dr. C. Nguyen,General,Urgent
+A0192,P0064,2026-08-07,2026-08-11,Surgery,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,Step-down,Elective
+A0193,P0129,2026-10-24,2026-10-30,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. C. Nguyen,ICU,Urgent
+A0194,P0120,2026-01-28,2026-02-04,Emergency,E11.9,Type 2 diabetes mellitus,Dr. E. Garcia,Step-down,Elective
+A0195,P0095,2026-10-15,2026-10-23,Neurology,I10,Essential hypertension,Dr. E. Garcia,Step-down,Urgent
+A0196,P0152,2026-05-09,2026-05-17,Internal Medicine,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,ICU,Elective
+A0197,P0060,2026-01-08,2026-01-15,Pediatrics,I10,Essential hypertension,Dr. A. Patel,Step-down,Elective
+A0198,P0053,2026-07-16,2026-07-21,Neurology,E11.9,Type 2 diabetes mellitus,Dr. G. Rao,Observation,Elective
+A0199,P0012,2026-03-18,2026-03-23,Neurology,E11.9,Type 2 diabetes mellitus,Dr. G. Rao,Step-down,Emergency
+A0200,P0035,2026-02-17,2026-02-19,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. B. Chen,General,Emergency
+A0201,P0067,2026-03-12,2026-03-16,Pediatrics,I25.10,Atherosclerotic heart disease,Dr. G. Rao,Step-down,Emergency
+A0202,P0020,2026-08-24,2026-08-29,Neurology,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,General,Elective
+A0203,P0120,2026-02-28,2026-03-03,Pediatrics,F32.9,Major depressive disorder,Dr. G. Rao,General,Urgent
+A0204,P0079,2026-07-07,2026-07-11,Internal Medicine,F32.9,Major depressive disorder,Dr. E. Garcia,General,Elective
+A0205,P0011,2026-03-26,2026-03-31,Neurology,G43.909,"Migraine, unspecified",Dr. F. Ahmed,ICU,Elective
+A0206,P0132,2026-05-12,2026-05-18,Cardiology,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,Step-down,Elective
+A0207,P0143,2026-01-20,2026-01-27,Neurology,F32.9,Major depressive disorder,Dr. B. Chen,Observation,Elective
+A0208,P0016,2026-03-17,2026-03-19,Neurology,I10,Essential hypertension,Dr. C. Nguyen,ICU,Emergency
+A0209,P0151,2026-07-14,2026-07-16,Emergency,G43.909,"Migraine, unspecified",Dr. B. Chen,General,Elective
+A0210,P0024,2026-04-16,2026-04-24,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. B. Chen,General,Emergency
+A0211,P0111,2026-01-30,2026-02-02,Surgery,G43.909,"Migraine, unspecified",Dr. H. Smith,General,Emergency
+A0212,P0055,2026-08-11,2026-08-14,Orthopedics,N18.3,"Chronic kidney disease, stage 3",Dr. E. Garcia,Step-down,Emergency
+A0213,P0159,2026-03-22,2026-03-23,Neurology,G43.909,"Migraine, unspecified",Dr. E. Garcia,Observation,Emergency
+A0214,P0023,2026-10-13,2026-10-21,Emergency,I10,Essential hypertension,Dr. G. Rao,ICU,Emergency
+A0215,P0162,2026-04-17,2026-04-26,Cardiology,M17.0,Osteoarthritis of knee,Dr. G. Rao,Step-down,Emergency
+A0216,P0145,2026-10-10,2026-10-18,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. G. Rao,Step-down,Elective
+A0217,P0057,2026-01-18,2026-01-24,Cardiology,G43.909,"Migraine, unspecified",Dr. E. Garcia,General,Emergency
+A0218,P0060,2026-10-03,2026-10-09,Orthopedics,G43.909,"Migraine, unspecified",Dr. B. Chen,ICU,Urgent
+A0219,P0189,2026-05-08,2026-05-13,Cardiology,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,Observation,Emergency
+A0220,P0152,2026-04-03,2026-04-06,Pediatrics,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,General,Urgent
+A0221,P0049,2026-07-04,2026-07-07,Internal Medicine,G43.909,"Migraine, unspecified",Dr. E. Garcia,ICU,Emergency
+A0222,P0060,2026-01-24,2026-01-26,Neurology,I10,Essential hypertension,Dr. A. Patel,Observation,Elective
+A0223,P0088,2026-06-23,2026-06-27,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,General,Elective
+A0224,P0135,2026-03-21,2026-03-24,Pediatrics,E11.9,Type 2 diabetes mellitus,Dr. B. Chen,Step-down,Urgent
+A0225,P0078,2026-07-26,2026-07-28,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. C. Nguyen,ICU,Urgent
+A0226,P0045,2026-08-16,2026-08-24,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,ICU,Emergency
+A0227,P0046,2026-06-11,2026-06-16,Cardiology,J45.909,"Asthma, uncomplicated",Dr. G. Rao,General,Elective
+A0228,P0057,2026-11-09,2026-11-15,Oncology,G43.909,"Migraine, unspecified",Dr. H. Smith,ICU,Emergency
+A0229,P0082,2026-02-13,2026-02-17,Orthopedics,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,Step-down,Emergency
+A0230,P0064,2026-01-10,2026-01-15,Oncology,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,Step-down,Elective
+A0231,P0113,2026-01-05,2026-01-06,Surgery,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,Observation,Emergency
+A0232,P0097,2026-07-17,2026-07-23,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,ICU,Elective
+A0233,P0076,2026-08-24,2026-08-26,Cardiology,I10,Essential hypertension,Dr. F. Ahmed,Step-down,Elective
+A0234,P0097,2026-02-11,2026-02-17,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. B. Chen,General,Emergency
+A0235,P0111,2026-11-05,2026-11-13,Orthopedics,I10,Essential hypertension,Dr. G. Rao,ICU,Elective
+A0236,P0049,2026-02-25,2026-03-03,Surgery,M17.0,Osteoarthritis of knee,Dr. E. Garcia,Step-down,Emergency
+A0237,P0101,2026-05-06,2026-05-08,Internal Medicine,I10,Essential hypertension,Dr. C. Nguyen,General,Emergency
+A0238,P0076,2026-01-06,2026-01-13,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. D. Kim,General,Elective
+A0239,P0021,2026-04-20,2026-04-23,Internal Medicine,I25.10,Atherosclerotic heart disease,Dr. B. Chen,Step-down,Emergency
+A0240,P0024,2026-09-03,2026-09-11,Surgery,I25.10,Atherosclerotic heart disease,Dr. C. Nguyen,Step-down,Emergency
+A0241,P0012,2026-07-13,2026-07-16,Emergency,F32.9,Major depressive disorder,Dr. H. Smith,Observation,Emergency
+A0242,P0016,2026-04-30,2026-05-05,Orthopedics,G43.909,"Migraine, unspecified",Dr. B. Chen,General,Urgent
+A0243,P0194,2026-06-30,2026-07-09,Neurology,J18.9,"Pneumonia, unspecified",Dr. A. Patel,Observation,Urgent
+A0244,P0147,2026-08-07,2026-08-16,Neurology,F32.9,Major depressive disorder,Dr. H. Smith,Step-down,Elective
+A0245,P0147,2026-07-26,2026-07-27,Orthopedics,K21.9,Gastro-esophageal reflux disease,Dr. B. Chen,Observation,Elective
+A0246,P0033,2026-03-31,2026-04-04,Cardiology,M17.0,Osteoarthritis of knee,Dr. G. Rao,General,Urgent
+A0247,P0153,2026-08-15,2026-08-19,Emergency,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,General,Elective
+A0248,P0142,2026-07-22,2026-07-31,Pediatrics,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,Observation,Elective
+A0249,P0029,2026-11-01,2026-11-10,Surgery,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,ICU,Urgent
+A0250,P0145,2026-11-02,2026-11-04,Oncology,E11.9,Type 2 diabetes mellitus,Dr. E. Garcia,Step-down,Emergency
+A0251,P0147,2026-05-20,2026-05-27,Internal Medicine,F32.9,Major depressive disorder,Dr. A. Patel,ICU,Emergency
+A0252,P0156,2026-07-30,2026-08-02,Surgery,G43.909,"Migraine, unspecified",Dr. A. Patel,Observation,Emergency
+A0253,P0069,2026-05-06,2026-05-07,Pediatrics,F32.9,Major depressive disorder,Dr. A. Patel,Step-down,Emergency
+A0254,P0179,2026-06-13,2026-06-18,Oncology,F32.9,Major depressive disorder,Dr. D. Kim,ICU,Emergency
+A0255,P0187,2026-08-19,2026-08-25,Surgery,I25.10,Atherosclerotic heart disease,Dr. B. Chen,ICU,Emergency
+A0256,P0195,2026-04-23,2026-04-30,Pediatrics,F32.9,Major depressive disorder,Dr. A. Patel,ICU,Elective
+A0257,P0035,2026-06-13,2026-06-22,Cardiology,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,ICU,Elective
+A0258,P0117,2026-02-03,2026-02-07,Cardiology,I10,Essential hypertension,Dr. F. Ahmed,ICU,Emergency
+A0259,P0102,2026-07-12,2026-07-20,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,ICU,Emergency
+A0260,P0122,2026-09-12,2026-09-20,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,ICU,Emergency
+A0261,P0099,2026-02-20,2026-02-25,Cardiology,I10,Essential hypertension,Dr. C. Nguyen,ICU,Elective
+A0262,P0167,2026-04-30,2026-05-04,Surgery,I25.10,Atherosclerotic heart disease,Dr. A. Patel,General,Emergency
+A0263,P0003,2026-03-13,2026-03-16,Neurology,G43.909,"Migraine, unspecified",Dr. E. Garcia,Step-down,Urgent
+A0264,P0090,2026-05-25,2026-06-01,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,ICU,Emergency
+A0265,P0102,2026-06-08,2026-06-17,Oncology,G43.909,"Migraine, unspecified",Dr. A. Patel,Step-down,Urgent
+A0266,P0176,2026-11-05,2026-11-10,Oncology,I25.10,Atherosclerotic heart disease,Dr. H. Smith,General,Emergency
+A0267,P0067,2026-05-26,2026-06-01,Emergency,I25.10,Atherosclerotic heart disease,Dr. D. Kim,ICU,Urgent
+A0268,P0104,2026-05-08,2026-05-09,Pediatrics,G43.909,"Migraine, unspecified",Dr. C. Nguyen,General,Urgent
+A0269,P0108,2026-09-16,2026-09-21,Surgery,I25.10,Atherosclerotic heart disease,Dr. G. Rao,General,Urgent
+A0270,P0186,2026-10-24,2026-10-28,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,Step-down,Urgent
+A0271,P0047,2026-06-07,2026-06-10,Emergency,K21.9,Gastro-esophageal reflux disease,Dr. B. Chen,Observation,Elective
+A0272,P0175,2026-05-17,2026-05-26,Pediatrics,J45.909,"Asthma, uncomplicated",Dr. B. Chen,ICU,Emergency
+A0273,P0085,2026-04-29,2026-05-04,Pediatrics,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,Step-down,Emergency
+A0274,P0163,2026-03-06,2026-03-14,Oncology,I10,Essential hypertension,Dr. H. Smith,ICU,Urgent
+A0275,P0077,2026-03-07,2026-03-14,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,ICU,Elective
+A0276,P0146,2026-04-17,2026-04-23,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,Step-down,Urgent
+A0277,P0086,2026-04-07,2026-04-09,Orthopedics,F32.9,Major depressive disorder,Dr. F. Ahmed,General,Elective
+A0278,P0195,2026-08-24,2026-08-29,Orthopedics,M17.0,Osteoarthritis of knee,Dr. C. Nguyen,Observation,Elective
+A0279,P0104,2026-03-12,2026-03-19,Surgery,J18.9,"Pneumonia, unspecified",Dr. H. Smith,Observation,Elective
+A0280,P0188,2026-01-24,2026-02-02,Pediatrics,M17.0,Osteoarthritis of knee,Dr. A. Patel,Step-down,Urgent
+A0281,P0161,2026-04-12,2026-04-13,Neurology,I10,Essential hypertension,Dr. D. Kim,Step-down,Emergency
+A0282,P0129,2026-03-12,2026-03-14,Emergency,J18.9,"Pneumonia, unspecified",Dr. C. Nguyen,General,Elective
+A0283,P0187,2026-06-06,2026-06-11,Pediatrics,F32.9,Major depressive disorder,Dr. G. Rao,ICU,Emergency
+A0284,P0043,2026-09-12,2026-09-18,Surgery,M17.0,Osteoarthritis of knee,Dr. A. Patel,ICU,Elective
+A0285,P0151,2026-03-13,2026-03-17,Orthopedics,I10,Essential hypertension,Dr. B. Chen,Step-down,Urgent
+A0286,P0198,2026-01-24,2026-01-31,Cardiology,I25.10,Atherosclerotic heart disease,Dr. A. Patel,General,Urgent
+A0287,P0107,2026-01-15,2026-01-16,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. G. Rao,General,Urgent
+A0288,P0053,2026-05-14,2026-05-22,Cardiology,J45.909,"Asthma, uncomplicated",Dr. E. Garcia,Observation,Urgent
+A0289,P0160,2026-02-25,2026-03-06,Orthopedics,I25.10,Atherosclerotic heart disease,Dr. G. Rao,General,Urgent
+A0290,P0028,2026-03-06,2026-03-11,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. D. Kim,ICU,Emergency
+A0291,P0181,2026-09-29,2026-10-03,Surgery,N18.3,"Chronic kidney disease, stage 3",Dr. E. Garcia,ICU,Elective
+A0292,P0177,2026-10-12,2026-10-20,Internal Medicine,M17.0,Osteoarthritis of knee,Dr. F. Ahmed,ICU,Elective
+A0293,P0147,2026-01-11,2026-01-13,Internal Medicine,E11.9,Type 2 diabetes mellitus,Dr. C. Nguyen,General,Urgent
+A0294,P0165,2026-02-12,2026-02-14,Neurology,I25.10,Atherosclerotic heart disease,Dr. H. Smith,Step-down,Emergency
+A0295,P0045,2026-08-30,2026-08-31,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. E. Garcia,Step-down,Urgent
+A0296,P0025,2026-06-14,2026-06-21,Cardiology,E11.9,Type 2 diabetes mellitus,Dr. A. Patel,ICU,Urgent
+A0297,P0113,2026-04-02,2026-04-08,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,Step-down,Emergency
+A0298,P0103,2026-04-08,2026-04-10,Internal Medicine,J18.9,"Pneumonia, unspecified",Dr. E. Garcia,Observation,Urgent
+A0299,P0029,2026-09-06,2026-09-13,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. A. Patel,ICU,Elective
+A0300,P0174,2026-08-06,2026-08-14,Internal Medicine,G43.909,"Migraine, unspecified",Dr. C. Nguyen,Observation,Emergency
+A0301,P0125,2026-01-19,2026-01-22,Oncology,F32.9,Major depressive disorder,Dr. G. Rao,Observation,Elective
+A0302,P0004,2026-02-06,2026-02-11,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,General,Emergency
+A0303,P0170,2026-05-12,2026-05-20,Surgery,N18.3,"Chronic kidney disease, stage 3",Dr. C. Nguyen,General,Elective
+A0304,P0127,2026-03-26,2026-04-04,Orthopedics,F32.9,Major depressive disorder,Dr. B. Chen,Observation,Emergency
+A0305,P0013,2026-05-08,2026-05-14,Neurology,I25.10,Atherosclerotic heart disease,Dr. G. Rao,Observation,Elective
+A0306,P0147,2026-02-14,2026-02-22,Internal Medicine,F32.9,Major depressive disorder,Dr. B. Chen,Observation,Emergency
+A0307,P0191,2026-06-15,2026-06-17,Cardiology,F32.9,Major depressive disorder,Dr. B. Chen,Observation,Emergency
+A0308,P0001,2026-01-23,2026-02-01,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,ICU,Urgent
+A0309,P0014,2026-08-26,2026-09-01,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. H. Smith,Step-down,Urgent
+A0310,P0184,2026-11-08,2026-11-16,Internal Medicine,N18.3,"Chronic kidney disease, stage 3",Dr. B. Chen,General,Urgent
+A0311,P0091,2026-04-28,2026-04-29,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. F. Ahmed,General,Elective
+A0312,P0184,2026-03-30,2026-04-07,Surgery,J45.909,"Asthma, uncomplicated",Dr. B. Chen,Step-down,Urgent
+A0313,P0101,2026-04-15,2026-04-19,Neurology,E11.9,Type 2 diabetes mellitus,Dr. H. Smith,ICU,Urgent
+A0314,P0012,2026-06-27,2026-06-29,Oncology,J18.9,"Pneumonia, unspecified",Dr. H. Smith,Observation,Urgent
+A0315,P0128,2026-11-02,2026-11-11,Cardiology,J45.909,"Asthma, uncomplicated",Dr. A. Patel,Observation,Urgent
+A0316,P0178,2026-09-09,2026-09-18,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. C. Nguyen,General,Emergency
+A0317,P0099,2026-11-08,2026-11-14,Surgery,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,Step-down,Emergency
+A0318,P0035,2026-06-29,2026-07-04,Orthopedics,F32.9,Major depressive disorder,Dr. G. Rao,Step-down,Urgent
+A0319,P0162,2026-10-12,2026-10-18,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. D. Kim,ICU,Urgent
+A0320,P0182,2026-06-02,2026-06-08,Orthopedics,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,General,Emergency
+A0321,P0147,2026-10-19,2026-10-27,Surgery,G43.909,"Migraine, unspecified",Dr. E. Garcia,Observation,Elective
+A0322,P0098,2026-09-29,2026-10-01,Orthopedics,I10,Essential hypertension,Dr. A. Patel,General,Elective
+A0323,P0175,2026-05-21,2026-05-24,Emergency,I25.10,Atherosclerotic heart disease,Dr. C. Nguyen,General,Urgent
+A0324,P0009,2026-06-05,2026-06-09,Pediatrics,K21.9,Gastro-esophageal reflux disease,Dr. H. Smith,General,Urgent
+A0325,P0100,2026-10-19,2026-10-23,Neurology,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,General,Emergency
+A0326,P0142,2026-07-22,2026-07-29,Cardiology,N18.3,"Chronic kidney disease, stage 3",Dr. A. Patel,Step-down,Elective
+A0327,P0194,2026-08-19,2026-08-23,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,Step-down,Emergency
+A0328,P0045,2026-04-05,2026-04-07,Oncology,J45.909,"Asthma, uncomplicated",Dr. G. Rao,General,Emergency
+A0329,P0034,2026-05-27,2026-06-05,Orthopedics,I25.10,Atherosclerotic heart disease,Dr. E. Garcia,General,Emergency
+A0330,P0040,2026-08-31,2026-09-03,Pediatrics,I10,Essential hypertension,Dr. A. Patel,Step-down,Emergency
+A0331,P0019,2026-10-25,2026-11-03,Pediatrics,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,ICU,Urgent
+A0332,P0107,2026-02-08,2026-02-17,Surgery,J45.909,"Asthma, uncomplicated",Dr. B. Chen,Step-down,Elective
+A0333,P0093,2026-04-24,2026-04-30,Emergency,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,Observation,Urgent
+A0334,P0115,2026-01-09,2026-01-11,Neurology,N18.3,"Chronic kidney disease, stage 3",Dr. D. Kim,General,Urgent
+A0335,P0099,2026-06-18,2026-06-25,Emergency,E11.9,Type 2 diabetes mellitus,Dr. E. Garcia,General,Urgent
+A0336,P0115,2026-07-15,2026-07-24,Internal Medicine,K21.9,Gastro-esophageal reflux disease,Dr. A. Patel,Step-down,Urgent
+A0337,P0022,2026-04-13,2026-04-19,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. C. Nguyen,General,Urgent
+A0338,P0176,2026-02-07,2026-02-11,Surgery,M17.0,Osteoarthritis of knee,Dr. B. Chen,ICU,Urgent
+A0339,P0007,2026-08-15,2026-08-17,Internal Medicine,J45.909,"Asthma, uncomplicated",Dr. F. Ahmed,General,Elective
+A0340,P0065,2026-02-11,2026-02-12,Oncology,J45.909,"Asthma, uncomplicated",Dr. D. Kim,Step-down,Emergency
+A0341,P0111,2026-07-22,2026-07-30,Pediatrics,J18.9,"Pneumonia, unspecified",Dr. A. Patel,Observation,Urgent
+A0342,P0165,2026-03-06,2026-03-15,Oncology,I10,Essential hypertension,Dr. A. Patel,General,Emergency
+A0343,P0176,2026-09-19,2026-09-21,Emergency,I25.10,Atherosclerotic heart disease,Dr. B. Chen,Step-down,Emergency
+A0344,P0122,2026-07-19,2026-07-26,Orthopedics,I10,Essential hypertension,Dr. D. Kim,ICU,Urgent
+A0345,P0163,2026-07-24,2026-08-02,Orthopedics,I25.10,Atherosclerotic heart disease,Dr. E. Garcia,Step-down,Elective
+A0346,P0032,2026-10-15,2026-10-24,Cardiology,J45.909,"Asthma, uncomplicated",Dr. A. Patel,Observation,Urgent
+A0347,P0054,2026-10-12,2026-10-14,Pediatrics,I25.10,Atherosclerotic heart disease,Dr. D. Kim,Observation,Urgent
+A0348,P0048,2026-09-24,2026-09-27,Neurology,J45.909,"Asthma, uncomplicated",Dr. E. Garcia,ICU,Elective
+A0349,P0119,2026-04-07,2026-04-08,Oncology,K21.9,Gastro-esophageal reflux disease,Dr. E. Garcia,General,Emergency
+A0350,P0125,2026-02-24,2026-02-28,Pediatrics,G43.909,"Migraine, unspecified",Dr. F. Ahmed,ICU,Urgent

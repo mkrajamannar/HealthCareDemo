@@ -1,0 +1,6907 @@
+{
+  "resourceType": "Bundle",
+  "type": "searchset",
+  "total": 300,
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0001",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0147"
+        },
+        "authoredOn": "2026-07-22",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0002",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0036"
+        },
+        "authoredOn": "2026-06-29",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0003",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0091"
+        },
+        "authoredOn": "2026-04-05",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0004",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0024"
+        },
+        "authoredOn": "2026-04-09",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0005",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0059"
+        },
+        "authoredOn": "2026-07-03",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0006",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0193"
+        },
+        "authoredOn": "2026-02-22",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0007",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0143"
+        },
+        "authoredOn": "2026-02-04",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0008",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0001"
+        },
+        "authoredOn": "2026-10-02",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0009",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0099"
+        },
+        "authoredOn": "2026-06-10",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0010",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0045"
+        },
+        "authoredOn": "2026-04-11",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0011",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0089"
+        },
+        "authoredOn": "2026-02-23",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0012",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0113"
+        },
+        "authoredOn": "2026-04-05",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0013",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0160"
+        },
+        "authoredOn": "2026-01-24",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0014",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0028"
+        },
+        "authoredOn": "2026-07-02",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0015",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0128"
+        },
+        "authoredOn": "2026-04-13",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0016",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0169"
+        },
+        "authoredOn": "2026-10-12",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0017",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0172"
+        },
+        "authoredOn": "2026-10-15",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0018",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0094"
+        },
+        "authoredOn": "2026-03-18",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0019",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0104"
+        },
+        "authoredOn": "2026-01-26",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0020",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0169"
+        },
+        "authoredOn": "2026-11-03",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0021",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0135"
+        },
+        "authoredOn": "2026-10-20",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0022",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0083"
+        },
+        "authoredOn": "2026-03-15",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0023",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0161"
+        },
+        "authoredOn": "2026-08-11",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0024",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0022"
+        },
+        "authoredOn": "2026-09-13",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0025",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0083"
+        },
+        "authoredOn": "2026-10-19",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0026",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0128"
+        },
+        "authoredOn": "2026-06-01",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0027",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0023"
+        },
+        "authoredOn": "2026-06-11",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0028",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0137"
+        },
+        "authoredOn": "2026-01-19",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0029",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0049"
+        },
+        "authoredOn": "2026-07-04",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0030",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0131"
+        },
+        "authoredOn": "2026-07-13",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0031",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0118"
+        },
+        "authoredOn": "2026-04-10",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0032",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0183"
+        },
+        "authoredOn": "2026-04-19",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0033",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0012"
+        },
+        "authoredOn": "2026-07-19",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0034",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0002"
+        },
+        "authoredOn": "2026-05-08",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0035",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0059"
+        },
+        "authoredOn": "2026-07-14",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0036",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0037"
+        },
+        "authoredOn": "2026-11-07",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0037",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0175"
+        },
+        "authoredOn": "2026-10-24",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0038",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0105"
+        },
+        "authoredOn": "2026-01-10",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0039",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0072"
+        },
+        "authoredOn": "2026-04-12",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0040",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0161"
+        },
+        "authoredOn": "2026-07-26",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0041",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0170"
+        },
+        "authoredOn": "2026-04-29",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0042",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0041"
+        },
+        "authoredOn": "2026-09-12",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0043",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0043"
+        },
+        "authoredOn": "2026-05-16",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0044",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0073"
+        },
+        "authoredOn": "2026-10-23",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0045",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0102"
+        },
+        "authoredOn": "2026-04-18",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0046",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0033"
+        },
+        "authoredOn": "2026-09-27",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0047",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0028"
+        },
+        "authoredOn": "2026-03-03",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0048",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0048"
+        },
+        "authoredOn": "2026-02-16",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0049",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0158"
+        },
+        "authoredOn": "2026-07-13",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0050",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0153"
+        },
+        "authoredOn": "2026-01-26",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0051",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0012"
+        },
+        "authoredOn": "2026-10-23",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0052",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0065"
+        },
+        "authoredOn": "2026-04-04",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0053",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0165"
+        },
+        "authoredOn": "2026-02-02",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0054",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0075"
+        },
+        "authoredOn": "2026-09-20",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0055",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0161"
+        },
+        "authoredOn": "2026-04-14",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0056",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0113"
+        },
+        "authoredOn": "2026-02-09",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0057",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0037"
+        },
+        "authoredOn": "2026-10-12",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0058",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0176"
+        },
+        "authoredOn": "2026-02-07",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0059",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0186"
+        },
+        "authoredOn": "2026-06-18",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0060",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0027"
+        },
+        "authoredOn": "2026-05-04",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0061",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0145"
+        },
+        "authoredOn": "2026-02-03",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0062",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0196"
+        },
+        "authoredOn": "2026-01-23",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0063",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0147"
+        },
+        "authoredOn": "2026-07-21",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0064",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0192"
+        },
+        "authoredOn": "2026-05-06",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0065",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0163"
+        },
+        "authoredOn": "2026-08-25",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0066",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0138"
+        },
+        "authoredOn": "2026-07-08",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0067",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0164"
+        },
+        "authoredOn": "2026-04-04",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0068",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0095"
+        },
+        "authoredOn": "2026-01-15",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0069",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0011"
+        },
+        "authoredOn": "2026-08-28",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0070",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0033"
+        },
+        "authoredOn": "2026-07-04",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0071",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0107"
+        },
+        "authoredOn": "2026-08-28",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0072",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0119"
+        },
+        "authoredOn": "2026-07-10",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0073",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0035"
+        },
+        "authoredOn": "2026-10-03",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0074",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0183"
+        },
+        "authoredOn": "2026-04-12",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0075",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0141"
+        },
+        "authoredOn": "2026-08-02",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0076",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0101"
+        },
+        "authoredOn": "2026-03-18",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0077",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0077"
+        },
+        "authoredOn": "2026-08-04",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0078",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0087"
+        },
+        "authoredOn": "2026-10-14",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0079",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0047"
+        },
+        "authoredOn": "2026-08-19",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0080",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0146"
+        },
+        "authoredOn": "2026-04-03",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0081",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0148"
+        },
+        "authoredOn": "2026-04-16",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0082",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0120"
+        },
+        "authoredOn": "2026-05-10",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0083",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0157"
+        },
+        "authoredOn": "2026-10-03",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0084",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0022"
+        },
+        "authoredOn": "2026-01-15",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0085",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0024"
+        },
+        "authoredOn": "2026-06-14",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0086",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0055"
+        },
+        "authoredOn": "2026-06-11",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0087",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0150"
+        },
+        "authoredOn": "2026-08-21",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0088",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0075"
+        },
+        "authoredOn": "2026-06-09",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0089",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0042"
+        },
+        "authoredOn": "2026-08-05",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0090",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0144"
+        },
+        "authoredOn": "2026-10-14",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0091",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0030"
+        },
+        "authoredOn": "2026-03-21",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0092",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0035"
+        },
+        "authoredOn": "2026-07-19",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0093",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0044"
+        },
+        "authoredOn": "2026-01-15",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0094",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0115"
+        },
+        "authoredOn": "2026-01-15",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0095",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0022"
+        },
+        "authoredOn": "2026-07-13",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0096",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0160"
+        },
+        "authoredOn": "2026-06-07",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0097",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0172"
+        },
+        "authoredOn": "2026-04-15",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0098",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0091"
+        },
+        "authoredOn": "2026-11-09",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0099",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0044"
+        },
+        "authoredOn": "2026-07-10",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0100",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0134"
+        },
+        "authoredOn": "2026-01-17",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0101",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0014"
+        },
+        "authoredOn": "2026-05-07",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0102",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0111"
+        },
+        "authoredOn": "2026-06-26",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0103",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0169"
+        },
+        "authoredOn": "2026-02-15",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0104",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0160"
+        },
+        "authoredOn": "2026-01-10",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0105",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0052"
+        },
+        "authoredOn": "2026-09-02",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0106",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0178"
+        },
+        "authoredOn": "2026-05-23",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0107",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0132"
+        },
+        "authoredOn": "2026-08-10",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0108",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0089"
+        },
+        "authoredOn": "2026-05-18",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0109",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0069"
+        },
+        "authoredOn": "2026-02-16",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0110",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0131"
+        },
+        "authoredOn": "2026-03-04",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0111",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0063"
+        },
+        "authoredOn": "2026-02-12",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0112",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0040"
+        },
+        "authoredOn": "2026-10-24",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0113",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0003"
+        },
+        "authoredOn": "2026-01-11",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0114",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0150"
+        },
+        "authoredOn": "2026-08-28",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0115",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0015"
+        },
+        "authoredOn": "2026-03-17",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0116",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0024"
+        },
+        "authoredOn": "2026-02-20",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0117",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0054"
+        },
+        "authoredOn": "2026-01-30",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0118",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0161"
+        },
+        "authoredOn": "2026-10-03",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0119",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0182"
+        },
+        "authoredOn": "2026-09-15",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0120",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0188"
+        },
+        "authoredOn": "2026-11-04",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0121",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0130"
+        },
+        "authoredOn": "2026-01-08",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0122",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0068"
+        },
+        "authoredOn": "2026-03-19",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0123",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0049"
+        },
+        "authoredOn": "2026-04-10",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0124",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0102"
+        },
+        "authoredOn": "2026-11-04",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0125",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0056"
+        },
+        "authoredOn": "2026-08-11",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0126",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0136"
+        },
+        "authoredOn": "2026-01-08",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0127",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0017"
+        },
+        "authoredOn": "2026-02-05",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0128",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0188"
+        },
+        "authoredOn": "2026-02-04",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0129",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0004"
+        },
+        "authoredOn": "2026-02-19",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0130",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0146"
+        },
+        "authoredOn": "2026-05-19",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0131",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0191"
+        },
+        "authoredOn": "2026-09-07",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0132",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0196"
+        },
+        "authoredOn": "2026-09-12",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0133",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0151"
+        },
+        "authoredOn": "2026-04-02",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0134",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0120"
+        },
+        "authoredOn": "2026-08-29",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0135",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0119"
+        },
+        "authoredOn": "2026-08-24",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0136",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0108"
+        },
+        "authoredOn": "2026-01-17",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0137",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0162"
+        },
+        "authoredOn": "2026-03-22",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0138",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0112"
+        },
+        "authoredOn": "2026-04-03",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0139",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0025"
+        },
+        "authoredOn": "2026-01-13",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0140",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0070"
+        },
+        "authoredOn": "2026-06-26",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0141",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0101"
+        },
+        "authoredOn": "2026-03-27",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0142",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0049"
+        },
+        "authoredOn": "2026-09-11",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0143",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0041"
+        },
+        "authoredOn": "2026-09-11",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0144",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0018"
+        },
+        "authoredOn": "2026-06-19",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0145",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0061"
+        },
+        "authoredOn": "2026-09-27",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0146",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0126"
+        },
+        "authoredOn": "2026-01-11",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0147",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0162"
+        },
+        "authoredOn": "2026-06-13",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0148",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0136"
+        },
+        "authoredOn": "2026-05-29",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0149",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0095"
+        },
+        "authoredOn": "2026-10-21",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0150",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0115"
+        },
+        "authoredOn": "2026-07-13",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0151",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0084"
+        },
+        "authoredOn": "2026-05-04",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0152",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0143"
+        },
+        "authoredOn": "2026-06-28",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0153",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0083"
+        },
+        "authoredOn": "2026-10-25",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0154",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0126"
+        },
+        "authoredOn": "2026-10-20",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0155",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0131"
+        },
+        "authoredOn": "2026-02-22",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0156",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0021"
+        },
+        "authoredOn": "2026-10-02",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0157",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0018"
+        },
+        "authoredOn": "2026-08-23",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0158",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0183"
+        },
+        "authoredOn": "2026-03-19",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0159",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0064"
+        },
+        "authoredOn": "2026-04-29",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0160",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0159"
+        },
+        "authoredOn": "2026-09-09",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0161",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0125"
+        },
+        "authoredOn": "2026-06-14",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0162",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0076"
+        },
+        "authoredOn": "2026-02-05",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0163",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0097"
+        },
+        "authoredOn": "2026-08-09",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0164",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0053"
+        },
+        "authoredOn": "2026-03-19",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0165",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0167"
+        },
+        "authoredOn": "2026-08-08",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0166",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0199"
+        },
+        "authoredOn": "2026-03-21",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0167",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0153"
+        },
+        "authoredOn": "2026-08-20",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0168",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0117"
+        },
+        "authoredOn": "2026-05-26",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0169",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0042"
+        },
+        "authoredOn": "2026-11-01",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0170",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0032"
+        },
+        "authoredOn": "2026-01-31",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0171",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0037"
+        },
+        "authoredOn": "2026-06-15",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0172",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0166"
+        },
+        "authoredOn": "2026-06-19",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0173",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0157"
+        },
+        "authoredOn": "2026-01-22",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0174",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0131"
+        },
+        "authoredOn": "2026-02-02",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0175",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0018"
+        },
+        "authoredOn": "2026-03-17",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0176",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0183"
+        },
+        "authoredOn": "2026-05-05",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0177",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0087"
+        },
+        "authoredOn": "2026-02-15",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0178",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0127"
+        },
+        "authoredOn": "2026-07-29",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0179",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0178"
+        },
+        "authoredOn": "2026-03-25",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0180",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0041"
+        },
+        "authoredOn": "2026-03-05",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0181",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0015"
+        },
+        "authoredOn": "2026-10-17",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0182",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0123"
+        },
+        "authoredOn": "2026-01-26",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0183",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0040"
+        },
+        "authoredOn": "2026-03-16",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0184",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0194"
+        },
+        "authoredOn": "2026-07-26",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0185",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0007"
+        },
+        "authoredOn": "2026-08-05",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0186",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0151"
+        },
+        "authoredOn": "2026-01-23",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0187",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0002"
+        },
+        "authoredOn": "2026-07-02",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0188",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0102"
+        },
+        "authoredOn": "2026-04-23",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0189",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0069"
+        },
+        "authoredOn": "2026-10-16",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0190",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0052"
+        },
+        "authoredOn": "2026-11-12",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0191",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0084"
+        },
+        "authoredOn": "2026-05-18",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0192",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0116"
+        },
+        "authoredOn": "2026-01-19",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0193",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0048"
+        },
+        "authoredOn": "2026-03-03",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0194",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0191"
+        },
+        "authoredOn": "2026-04-20",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0195",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0152"
+        },
+        "authoredOn": "2026-06-09",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0196",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0166"
+        },
+        "authoredOn": "2026-05-02",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0197",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0080"
+        },
+        "authoredOn": "2026-01-11",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0198",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0053"
+        },
+        "authoredOn": "2026-09-17",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0199",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0101"
+        },
+        "authoredOn": "2026-11-09",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0200",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0144"
+        },
+        "authoredOn": "2026-11-06",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0201",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0158"
+        },
+        "authoredOn": "2026-02-28",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0202",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0003"
+        },
+        "authoredOn": "2026-05-25",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0203",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0098"
+        },
+        "authoredOn": "2026-10-22",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0204",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0095"
+        },
+        "authoredOn": "2026-04-25",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0205",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0020"
+        },
+        "authoredOn": "2026-05-28",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0206",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0198"
+        },
+        "authoredOn": "2026-01-22",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0207",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0068"
+        },
+        "authoredOn": "2026-08-26",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0208",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0122"
+        },
+        "authoredOn": "2026-04-04",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0209",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0186"
+        },
+        "authoredOn": "2026-05-05",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0210",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0006"
+        },
+        "authoredOn": "2026-10-20",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0211",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0056"
+        },
+        "authoredOn": "2026-02-07",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0212",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0010"
+        },
+        "authoredOn": "2026-09-16",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0213",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0045"
+        },
+        "authoredOn": "2026-01-11",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0214",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0182"
+        },
+        "authoredOn": "2026-05-29",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0215",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0007"
+        },
+        "authoredOn": "2026-05-24",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0216",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0001"
+        },
+        "authoredOn": "2026-01-27",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0217",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0184"
+        },
+        "authoredOn": "2026-01-29",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0218",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0154"
+        },
+        "authoredOn": "2026-07-12",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0219",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0096"
+        },
+        "authoredOn": "2026-07-14",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0220",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0105"
+        },
+        "authoredOn": "2026-04-04",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0221",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0089"
+        },
+        "authoredOn": "2026-06-03",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0222",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0093"
+        },
+        "authoredOn": "2026-08-14",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0223",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0086"
+        },
+        "authoredOn": "2026-07-07",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0224",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0011"
+        },
+        "authoredOn": "2026-06-29",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0225",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0147"
+        },
+        "authoredOn": "2026-03-17",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0226",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0108"
+        },
+        "authoredOn": "2026-03-03",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0227",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0066"
+        },
+        "authoredOn": "2026-10-13",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0228",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0126"
+        },
+        "authoredOn": "2026-03-05",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0229",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0134"
+        },
+        "authoredOn": "2026-07-25",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0230",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0177"
+        },
+        "authoredOn": "2026-02-28",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0231",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0178"
+        },
+        "authoredOn": "2026-04-11",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0232",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0037"
+        },
+        "authoredOn": "2026-02-10",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0233",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0078"
+        },
+        "authoredOn": "2026-04-22",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0234",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0005"
+        },
+        "authoredOn": "2026-01-20",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0235",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0048"
+        },
+        "authoredOn": "2026-02-10",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0236",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0031"
+        },
+        "authoredOn": "2026-08-09",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0237",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0179"
+        },
+        "authoredOn": "2026-11-06",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0238",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0096"
+        },
+        "authoredOn": "2026-04-21",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0239",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0163"
+        },
+        "authoredOn": "2026-11-04",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0240",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0128"
+        },
+        "authoredOn": "2026-06-17",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0241",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0180"
+        },
+        "authoredOn": "2026-09-04",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0242",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0177"
+        },
+        "authoredOn": "2026-11-01",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0243",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0098"
+        },
+        "authoredOn": "2026-01-24",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0244",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0065"
+        },
+        "authoredOn": "2026-10-10",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0245",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0186"
+        },
+        "authoredOn": "2026-02-22",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0246",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0062"
+        },
+        "authoredOn": "2026-11-10",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0247",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0080"
+        },
+        "authoredOn": "2026-10-14",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0248",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0025"
+        },
+        "authoredOn": "2026-01-10",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0249",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0018"
+        },
+        "authoredOn": "2026-09-19",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0250",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0179"
+        },
+        "authoredOn": "2026-10-21",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0251",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0150"
+        },
+        "authoredOn": "2026-03-06",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0252",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0076"
+        },
+        "authoredOn": "2026-03-29",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0253",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0110"
+        },
+        "authoredOn": "2026-03-02",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0254",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0124"
+        },
+        "authoredOn": "2026-09-10",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0255",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0199"
+        },
+        "authoredOn": "2026-04-05",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0256",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0047"
+        },
+        "authoredOn": "2026-04-29",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0257",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0183"
+        },
+        "authoredOn": "2026-08-20",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0258",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0036"
+        },
+        "authoredOn": "2026-03-13",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0259",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0094"
+        },
+        "authoredOn": "2026-08-13",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0260",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0108"
+        },
+        "authoredOn": "2026-09-04",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0261",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0143"
+        },
+        "authoredOn": "2026-08-09",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0262",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0068"
+        },
+        "authoredOn": "2026-07-07",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0263",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0036"
+        },
+        "authoredOn": "2026-03-07",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0264",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0147"
+        },
+        "authoredOn": "2026-04-10",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0265",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0143"
+        },
+        "authoredOn": "2026-05-19",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0266",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0150"
+        },
+        "authoredOn": "2026-08-04",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0267",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0052"
+        },
+        "authoredOn": "2026-03-21",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0268",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0003"
+        },
+        "authoredOn": "2026-07-14",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0269",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0135"
+        },
+        "authoredOn": "2026-05-21",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0270",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0082"
+        },
+        "authoredOn": "2026-05-09",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0271",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0170"
+        },
+        "authoredOn": "2026-09-05",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0272",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Amlodipine"
+        },
+        "subject": {
+          "reference": "Patient/P0026"
+        },
+        "authoredOn": "2026-04-03",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "5 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0273",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0171"
+        },
+        "authoredOn": "2026-03-11",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0274",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0132"
+        },
+        "authoredOn": "2026-02-11",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0275",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0161"
+        },
+        "authoredOn": "2026-07-09",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0276",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0016"
+        },
+        "authoredOn": "2026-08-14",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0277",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0008"
+        },
+        "authoredOn": "2026-04-13",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0278",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0156"
+        },
+        "authoredOn": "2026-04-30",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0279",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0166"
+        },
+        "authoredOn": "2026-03-26",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0280",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0198"
+        },
+        "authoredOn": "2026-02-12",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0281",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0017"
+        },
+        "authoredOn": "2026-10-19",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0282",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Lisinopril"
+        },
+        "subject": {
+          "reference": "Patient/P0095"
+        },
+        "authoredOn": "2026-05-27",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "10 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0283",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0167"
+        },
+        "authoredOn": "2026-06-28",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0284",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0121"
+        },
+        "authoredOn": "2026-09-23",
+        "requester": {
+          "display": "Dr. G. Rao"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0285",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0121"
+        },
+        "authoredOn": "2026-06-26",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0286",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0137"
+        },
+        "authoredOn": "2026-09-26",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0287",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0070"
+        },
+        "authoredOn": "2026-06-01",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0288",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Omeprazole"
+        },
+        "subject": {
+          "reference": "Patient/P0062"
+        },
+        "authoredOn": "2026-10-21",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0289",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0050"
+        },
+        "authoredOn": "2026-06-25",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0290",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0154"
+        },
+        "authoredOn": "2026-08-10",
+        "requester": {
+          "display": "Dr. C. Nguyen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0291",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0049"
+        },
+        "authoredOn": "2026-07-09",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0292",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Sertraline"
+        },
+        "subject": {
+          "reference": "Patient/P0149"
+        },
+        "authoredOn": "2026-09-28",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "50 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0293",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0164"
+        },
+        "authoredOn": "2026-05-11",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0294",
+        "status": "completed",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0166"
+        },
+        "authoredOn": "2026-09-16",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0295",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Albuterol"
+        },
+        "subject": {
+          "reference": "Patient/P0124"
+        },
+        "authoredOn": "2026-05-23",
+        "requester": {
+          "display": "Dr. F. Ahmed"
+        },
+        "dosageInstruction": [
+          {
+            "text": "90 mcg, as needed"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0296",
+        "status": "active",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Atorvastatin"
+        },
+        "subject": {
+          "reference": "Patient/P0066"
+        },
+        "authoredOn": "2026-11-11",
+        "requester": {
+          "display": "Dr. E. Garcia"
+        },
+        "dosageInstruction": [
+          {
+            "text": "20 mg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0297",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0097"
+        },
+        "authoredOn": "2026-10-13",
+        "requester": {
+          "display": "Dr. A. Patel"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0298",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Metformin"
+        },
+        "subject": {
+          "reference": "Patient/P0049"
+        },
+        "authoredOn": "2026-05-15",
+        "requester": {
+          "display": "Dr. H. Smith"
+        },
+        "dosageInstruction": [
+          {
+            "text": "500 mg, twice daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0299",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0131"
+        },
+        "authoredOn": "2026-10-22",
+        "requester": {
+          "display": "Dr. D. Kim"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "MedicationRequest",
+        "id": "medreq-0300",
+        "status": "on-hold",
+        "intent": "order",
+        "medicationCodeableConcept": {
+          "text": "Levothyroxine"
+        },
+        "subject": {
+          "reference": "Patient/P0014"
+        },
+        "authoredOn": "2026-08-11",
+        "requester": {
+          "display": "Dr. B. Chen"
+        },
+        "dosageInstruction": [
+          {
+            "text": "75 mcg, once daily"
+          }
+        ]
+      }
+    }
+  ]
+}
